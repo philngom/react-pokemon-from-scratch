@@ -1,0 +1,16 @@
+.pokemon-detail {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+
+.page {
+  height: 100vh;
+}
+
+.info p {
+  font-size: 2.5em;
+  border: 1px solid blanchedalmond;
+  border-radius: 2em;
+  margin: 10px;
+}
