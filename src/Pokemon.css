@@ -7,8 +7,10 @@
   border-radius: 2em;
   width: 13em;
   margin: 5px;
+  cursor: pointer;
 }
 
 .pokemon:hover {
   transform: scale(1.08);
+  background-color: greenyellow;
 }
